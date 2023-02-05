@@ -1,3 +1,5 @@
+![alt text](/logo.jpeg?raw=true)
+
 #Twitter-Ranker: Sentiment Analysis for Twitter Profiles
 
 This project uses sentiment analysis to evaluate the positivity of a Twitter profile based on the last 100 tweets. The evaluation is on a scale from 0 to 100, where 100 represents an extremely positive profile and 0 represents an extremely negative one. The sentiment analysis is performed using a BERT model.
