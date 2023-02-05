@@ -1,0 +1,7 @@
+{
+  "api_key":"xxxxxxxxxxxxxxxxxxx",
+  "api_key_secret":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "access_token":"xxxxxxxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxx",
+  "access_token_secret":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "api_token_huggingface": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+}

@@ -1,0 +1,17 @@
+version: '3.7'
+services:
+services:
+  twitter-ranker:
+    image: twitter-ranker
+    restart: always
+    container_name: twitter-ranker
+    ports:
+     - 5000:5000
+    deploy:
+     resources:
+      limits:
+       memory: 800M
+networks:
+  default:
+    external:
+      name: nginx-proxy
