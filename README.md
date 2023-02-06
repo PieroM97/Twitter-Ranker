@@ -1,4 +1,4 @@
-![alt text](/logo.jpeg?raw=true)
+![alt text](/logo.png?raw=true)
 
 #Twitter-Ranker: Sentiment Analysis for Twitter Profiles
 
